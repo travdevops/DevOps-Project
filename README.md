@@ -8,7 +8,7 @@
 - Version Control System (VCS): Git
 - Containerization: Docker
 - Jenkins
-- Ancible
+- Ansible
 
 ## Prerequisites 🧰
 Before you start, make sure you have the following tools installed on your system:
